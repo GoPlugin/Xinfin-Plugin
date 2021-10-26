@@ -1,0 +1,23 @@
+{
+  "name": "cc-adapter-cloud",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Thomas Hodges",
+      "url": "https://github.com/thodges-gh"
+    },
+    {
+      "name": "Jonas Hals",
+      "email": "jhals@fiews.io",
+      "url": "https://github.com/boxhock"
+    }
+  ],
+  "homepage": "https://github.com/OracleFinder/CryptoCompareExternalAdapter",
+  "license": "MIT",
+  "dependencies": {
+    "@goplugin/external-adapter": "^0.2.6",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
